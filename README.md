@@ -20,10 +20,6 @@ The easiest way to run this interactive notebook is using Google Colab or Binder
     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Binamraaa/climate-near-future/blob/main/Climate_Model_Future_Days.ipynb)
     *(Click the badge above. You'll need a Google account. Run all cells, including the one enabling the custom widget manager.)*
 
-*   **Using Binder:**
-    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Binamraaa/climate-near-future/HEAD?filepath=Climate_Model_Future_Days.ipynb)
-    *(Click the badge above! Note: Binder can take a few minutes to build the environment the first time. If plots don't appear interactive, you might need to adjust the Plotly renderer setting in the notebook code to `'notebook'` or `'notebook_connected'` and push the change.)*
-
 ## Dependencies
 
 Listed in `requirements.txt`.
